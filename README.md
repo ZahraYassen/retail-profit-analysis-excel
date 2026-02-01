@@ -32,6 +32,8 @@ This project analyzes retail sales data to evaluate profit performance across di
 - Profit distribution by shipping mode
 - Regional and category-based profit comparison
 - Top customers by profitability
+  
+![dashboard](dashboard.png)
 
 ## Key Insights
 - Standard Class shipping generates the highest profit.
